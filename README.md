@@ -18,8 +18,8 @@ This Todo MERN (MongoDB, Express.js, React.js, Node.js) app allows users to crea
 - **Node.js**: JavaScript runtime environment for running server-side code.
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/your-username/toDo.git`
-2. Navigate to the project directory: `cd toDo-mern-app`
+1. Clone the repository: `git clone https://github.com/your-username/ToDo.git`
+2. Navigate to the project directory: `cd ToDo`
 3. Install dependencies:
    - Backend: `cd backend && npm install`
    - Frontend: `cd frontend && npm install`
