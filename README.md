@@ -1,9 +1,7 @@
 # TO DO MERN APP
-# Certainly! Here's the updated README file with the provided project description and usage:
 
----
 
-# Todo MERN App
+
 
 ## Description
 This Todo MERN (MongoDB, Express.js, React.js, Node.js) app allows users to create, edit, delete, and mark tasks for completion. It provides a simple and efficient way to manage a todo list.
